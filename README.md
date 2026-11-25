@@ -178,7 +178,7 @@ python3 tools/assimilate.py out/jobs.tsv OUTPUT.zip results.tsv codes
 
 ## Pilot units
 
-`pilot/pilot_units.tsv` lists 100 units on 50 cells of the ternary, quaternary and 5-ary tables. In every unit, `target` and `bar` equal a lower bound taken from Brouwer's table for that cell. `BAR` then means a code invariant under the subgroup matches that bound, and `WIN` means it beats that bound. For 49 of the 50 cells the bound is the one the table lists on 2026-11-25. For the two units on A5-9-6 the bound is 157 and the table now lists 166, so a code of 158 to 166 words on those units is `WIN` by the job's rule but no improvement on the table. `maxv` is 130000 for every unit.
+`pilot/pilot_units.tsv` lists 100 units on 50 cells of the ternary, quaternary and 5-ary tables. In every unit, `target` and `bar` equal a lower bound taken from Brouwer's table for that cell. `BAR` then means a code invariant under the subgroup matches that bound, and `WIN` means it beats that bound. Each bound is the one the table lists on 2026-11-25. `maxv` is 130000 for every unit.
 
 ## Results in Brouwer's tables
 

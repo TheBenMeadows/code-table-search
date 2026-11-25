@@ -1,8 +1,8 @@
 cell=A5-9-6
 alph=5x9
 d=6
-target=157
-bar=157
+target=166
+bar=166
 fam=agl8_1_glob
 class=g1823
 order=20
