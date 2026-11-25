@@ -1,0 +1,11 @@
+cell=A5-10-3
+alph=5x10
+d=3
+target=125000
+bar=125000
+fam=agl9_1_glob
+class=g2
+order=3240
+sig=1.9
+cap=7200
+maxv=130000

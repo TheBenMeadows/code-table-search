@@ -1,0 +1,11 @@
+cell=A2-7-3
+alph=2x7
+d=3
+target=16
+bar=16
+fam=cyc7
+class=g1
+order=7
+sig=7
+cap=60
+maxv=130000

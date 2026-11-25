@@ -1,0 +1,11 @@
+cell=A3-15-8
+alph=3x15
+d=8
+target=243
+bar=243
+fam=agl15_fix
+class=g32
+order=30
+sig=15
+cap=7200
+maxv=130000

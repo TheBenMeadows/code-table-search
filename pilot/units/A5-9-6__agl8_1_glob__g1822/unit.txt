@@ -1,0 +1,11 @@
+cell=A5-9-6
+alph=5x9
+d=6
+target=157
+bar=157
+fam=agl8_1_glob
+class=g1822
+order=20
+sig=1.2.2.4
+cap=7200
+maxv=130000

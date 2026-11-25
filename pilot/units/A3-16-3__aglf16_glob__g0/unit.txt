@@ -1,0 +1,11 @@
+cell=A3-16-3
+alph=3x16
+d=3
+target=1062882
+bar=1062882
+fam=aglf16_glob
+class=g0
+order=5760
+sig=16
+cap=7200
+maxv=130000

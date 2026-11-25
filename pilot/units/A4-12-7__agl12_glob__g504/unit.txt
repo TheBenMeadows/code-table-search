@@ -1,0 +1,11 @@
+cell=A4-12-7
+alph=4x12
+d=7
+target=320
+bar=320
+fam=agl12_glob
+class=g504
+order=48
+sig=12
+cap=7200
+maxv=130000

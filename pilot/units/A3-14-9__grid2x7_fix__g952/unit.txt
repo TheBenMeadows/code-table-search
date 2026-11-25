@@ -1,0 +1,11 @@
+cell=A3-14-9
+alph=3x14
+d=9
+target=36
+bar=36
+fam=grid2x7_fix
+class=g952
+order=8
+sig=1.1.1.1.1.1.2.2.2.2
+cap=7200
+maxv=130000

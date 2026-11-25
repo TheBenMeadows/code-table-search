@@ -1,0 +1,5 @@
+# BUDA variant: Intel x64, plan class cpu (one core). Alpine (busybox sh, awk, ps); osg is a static binary app file.
+FROM alpine:3.22
+WORKDIR /app
+ENV ARGS=""
+CMD /bin/sh ./main_codetable_1.sh ${ARGS}

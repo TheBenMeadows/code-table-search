@@ -1,0 +1,11 @@
+cell=A3-14-9
+alph=3x14
+d=9
+target=36
+bar=36
+fam=m11_3_glob
+class=g204
+order=9
+sig=1.1.1.1.1.9
+cap=7200
+maxv=130000

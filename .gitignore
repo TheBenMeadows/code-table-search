@@ -1,0 +1,6 @@
+/osg
+/control-*.code
+/control-*.line
+/boinc/osg_x86_64_1
+/boinc/osg_aarch64_1
+__pycache__/

@@ -1,0 +1,11 @@
+cell=A3-13-8
+alph=3x13
+d=8
+target=54
+bar=54
+fam=pgl11_1_fix
+class=g62
+order=8
+sig=1.4.8
+cap=7200
+maxv=130000

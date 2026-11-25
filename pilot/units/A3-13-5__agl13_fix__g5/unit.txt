@@ -1,0 +1,11 @@
+cell=A3-13-5
+alph=3x13
+d=5
+target=2187
+bar=2187
+fam=agl13_fix
+class=g5
+order=78
+sig=13
+cap=7200
+maxv=130000

@@ -1,0 +1,11 @@
+cell=A3-11-5
+alph=3x11
+d=5
+target=729
+bar=729
+fam=cyc11_neg
+class=g1
+order=22
+sig=11
+cap=60
+maxv=130000

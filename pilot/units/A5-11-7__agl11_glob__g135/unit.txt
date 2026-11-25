@@ -1,0 +1,11 @@
+cell=A5-11-7
+alph=5x11
+d=7
+target=625
+bar=625
+fam=agl11_glob
+class=g135
+order=44
+sig=11
+cap=7200
+maxv=130000

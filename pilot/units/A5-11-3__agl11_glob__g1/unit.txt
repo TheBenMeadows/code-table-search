@@ -1,0 +1,11 @@
+cell=A5-11-3
+alph=5x11
+d=3
+target=468750
+bar=468750
+fam=agl11_glob
+class=g1
+order=6600
+sig=11
+cap=7200
+maxv=130000

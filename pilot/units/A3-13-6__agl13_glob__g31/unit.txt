@@ -1,0 +1,11 @@
+cell=A3-13-6
+alph=3x13
+d=6
+target=729
+bar=729
+fam=agl13_glob
+class=g31
+order=39
+sig=13
+cap=7200
+maxv=130000

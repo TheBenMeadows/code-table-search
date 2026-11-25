@@ -1,0 +1,11 @@
+cell=A3-16-4
+alph=3x16
+d=4
+target=216513
+bar=216513
+fam=aglf16_glob
+class=g0
+order=5760
+sig=16
+cap=7200
+maxv=130000

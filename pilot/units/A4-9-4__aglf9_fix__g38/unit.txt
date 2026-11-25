@@ -1,0 +1,11 @@
+cell=A4-9-4
+alph=4x9
+d=4
+target=1152
+bar=1152
+fam=aglf9_fix
+class=g38
+order=72
+sig=9
+cap=7200
+maxv=130000

@@ -1,0 +1,11 @@
+cell=A5-7-3
+alph=5x7
+d=3
+target=1601
+bar=1601
+fam=agl7_glob
+class=g73
+order=84
+sig=7
+cap=7200
+maxv=130000

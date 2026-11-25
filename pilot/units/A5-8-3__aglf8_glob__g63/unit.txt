@@ -1,0 +1,11 @@
+cell=A5-8-3
+alph=5x8
+d=3
+target=7985
+bar=7985
+fam=aglf8_glob
+class=g63
+order=240
+sig=4.4
+cap=7200
+maxv=130000

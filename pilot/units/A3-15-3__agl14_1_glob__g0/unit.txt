@@ -1,0 +1,11 @@
+cell=A3-15-3
+alph=3x15
+d=3
+target=354294
+bar=354294
+fam=agl14_1_glob
+class=g0
+order=504
+sig=1.14
+cap=7200
+maxv=130000

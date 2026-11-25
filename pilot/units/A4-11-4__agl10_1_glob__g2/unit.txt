@@ -1,0 +1,11 @@
+cell=A4-11-4
+alph=4x11
+d=4
+target=16384
+bar=16384
+fam=agl10_1_glob
+class=g2
+order=480
+sig=1.10
+cap=7200
+maxv=130000

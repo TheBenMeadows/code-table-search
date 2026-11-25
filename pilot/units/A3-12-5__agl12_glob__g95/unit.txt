@@ -1,0 +1,11 @@
+cell=A3-12-5
+alph=3x12
+d=5
+target=729
+bar=729
+fam=agl12_glob
+class=g95
+order=36
+sig=12
+cap=7200
+maxv=130000
